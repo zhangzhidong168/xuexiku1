@@ -1,1 +1,1 @@
-第二版代码，加了新功能
+print('hello world')
