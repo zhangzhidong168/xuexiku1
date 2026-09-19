@@ -12,7 +12,7 @@
 # print(data2["name"])
 # # 输出：张三
 
-import json
+# import json
 
 # # 写入 JSON 文件
 # data = {"name": "张志栋", "age": 48, "skills": ["Python", "Git"]}
