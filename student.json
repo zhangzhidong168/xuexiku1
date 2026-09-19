@@ -1,0 +1,10 @@
+{
+  "name": "张志栋",
+  "age": 48,
+  "skills": [
+    "Python",
+    "Git",
+    "Markdown"
+  ],
+  "goal": "AI大模型开发"
+}
