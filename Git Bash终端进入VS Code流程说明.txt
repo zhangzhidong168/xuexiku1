@@ -1,0 +1,11 @@
+# 在sh（Git Bash终端） 窗口 输入
+# cd ~/文件夹名 (如：git_practice)
+# code .         打开VS Code 当前文件夹
+# 按键盘ctrl + · 1 字的左边
+# 打开终端
+# 输入python + 文件名  回车输出
+# git add .      把改动放进“待提交区”
+# git commit -m "说明：（如：Day18：第一个VS Code Python文件）"     正式保存一个版本
+# git push       把本地版本传到GitHub上
+# git log        查看全部文件
+# 直接按 q 退出
