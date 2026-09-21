@@ -4,5 +4,5 @@ day23.py
 day24.py
 local_api.py
 *.pyc
-_pycache_/
+__pycache__/
 .env
