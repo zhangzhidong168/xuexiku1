@@ -4,9 +4,5 @@ day23.py
 day24.py
 local_api.py
 *.pyc
-<<<<<<< HEAD
-_pycache_/
-=======
 __pycache__/
->>>>>>> 604761eeb8a006df217441094eee70205d7d8049
 .env
